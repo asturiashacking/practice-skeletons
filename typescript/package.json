@@ -4,7 +4,8 @@
   "description": "Project skeleton for practicing TypeScript",
   "scripts": {
     "lint": "tslint --project .",
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "npm test -- --watch"
   },
   "author": {
     "name": "AsturiasHacking",
