@@ -1,0 +1,34 @@
+{
+  "name": "practice-skeletons",
+  "version": "1.0.0",
+  "description": "Project skeleton for practicing JavaScript",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest",
+    "test:watch": "npm test -- --watch"
+  },
+  "author": {
+    "name": "AsturiasHacking",
+    "email": "asturiashacking@gmail.com"
+  },
+  "contributors": [
+    {
+      "email": "sergio@codecoolture.com",
+      "name": "Sergio Álvarez"
+    }
+  ],
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.26.2",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "jest": "^23.6.0",
+    "prettier": "^1.14.3"
+  }
+}
