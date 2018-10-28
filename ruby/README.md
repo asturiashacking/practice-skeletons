@@ -1,35 +1,45 @@
-# Practice::Skeletons
+# Ruby
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/practice/skeletons`. To experiment with that code, run `bin/console` for an interactive prompt.
+Este es un punto de partida para proyectos de Ruby testeados con
+[RSpec](http://rspec.info/).
 
-TODO: Delete this and the text above, and describe your gem
+## Instalación
 
-## Installation
+Para poder empezar a trabajar con este proyecto necesitarás una [instalación de
+Ruby](https://www.ruby-lang.org/es/documentation/installation/) para tu SO.
 
-Add this line to your application's Gemfile:
+Una vez hayas instalado ruby, deberás instalar [Bundler](https://bundler.io/),
+es muy sencillo, simplemente:
 
-```ruby
-gem 'practice-skeletons'
+```sh
+gem install bundler
 ```
 
-And then execute:
+(Si usas linux es posible que tengas que usar `sudo`, depende del método de
+instalación que hayas utilizado).
 
-    $ bundle
+Ahora desde la raíz del proyecto puedes instalar el resto de dependencias
+con
 
-Or install it yourself as:
+```sh
+bundle
+```
 
-    $ gem install practice-skeletons
+## Ejecutar tests
 
-## Usage
+Muy sencillo, desde la raíz del proyecto:
 
-TODO: Write usage instructions here
+```sh
+bundle exec rspec
+```
 
-## Development
+## Otros
 
-After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
+El proyecto incluye [Rubocop](https://github.com/rubocop-hq/rubocop) para
+identificar violaciones de las guía de estilo de Ruby y algunos _code smells_,
+puedes obtener un análisis con
 
-To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release`, which will create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
+```sh
+bundle exec rubocop
+```
 
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/practice-skeletons.
