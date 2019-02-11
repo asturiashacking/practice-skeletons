@@ -1,6 +1,8 @@
 # JavaScript
 
-Este proyecto contiene una configuración básica de JavaScript a través de [Node.js](https://nodejs.org/en/) con [Jest](https://jestjs.io/) como framework de testing. Como herramientas de apoyo, también está instalado [ESLint](https://eslint.org/) y un conjunto de paquetes que notificarán sobre posibles [_code smells_](https://en.wikipedia.org/wiki/Code_smell). Para ayudar con el formateo de código y errores estilísticos, se recomienda utilizar [Prettier](https://prettier.io/) (cuya configuración ya está incluida en el repositorio) con soporte para numerosos editores de texto como VS Code, Atom, etc.
+Este proyecto contiene una configuración básica de JavaScript a través de [Node.js](https://nodejs.org/en/) con [Jest](https://jestjs.io/) como framework de testing. Como herramientas de apoyo, también está instalado [ESLint](https://eslint.org/) y un conjunto de paquetes que notificarán sobre posibles [_code smells_](https://en.wikipedia.org/wiki/Code_smell).
+
+Con soporte para múltiples editores de texto (VSCode, Atom, etc.) se recomienda instalar las extensiones para [ESLint](https://eslint.org/docs/user-guide/integrations) y [Prettier](https://prettier.io/docs/en/editors.html) con el objetivo de disfrutar de todas las ventajas de este entorno de desarrollo.
 
 ## ¿Cómo...?
 
