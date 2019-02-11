@@ -1,6 +1,8 @@
 # TypeScript
 
-Este proyecto contiene una configuración básica de [TypeScript](https://www.typescriptlang.org/) con [Jest](https://jestjs.io/) como framework de testing. Como herramientas de apoyo, también está instalado [TSLint](https://palantir.github.io/tslint/) y un conjunto de paquetes de apoyo que notificarán sobre posibles [_code smells_](https://en.wikipedia.org/wiki/Code_smell).
+Este proyecto contiene una configuración básica de [TypeScript](https://www.typescriptlang.org/) con [Jest](https://jestjs.io/) como framework de testing. Como herramientas de apoyo, también está instalado [TSLint](https://palantir.github.io/tslint/) y un conjunto de paquetes que notificarán sobre posibles [_code smells_](https://en.wikipedia.org/wiki/Code_smell).
+
+Con soporte para múltiples editores de texto (VSCode, Atom, etc.) se recomienda instalar las extensiones para [TSLint](https://palantir.github.io/tslint/usage/third-party-tools/) y [Prettier](https://prettier.io/docs/en/editors.html) con el objetivo de disfrutar de todas las ventajas de este entorno de desarrollo.
 
 ## ¿Cómo...?
 
