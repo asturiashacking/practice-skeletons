@@ -3,31 +3,40 @@
  *
  * This generated file contains a sample Java project to get you started.
  * For more details take a look at the Java Quickstart chapter in the Gradle
- * user guide available at https://docs.gradle.org/4.10.2/userguide/tutorial_java_projects.html
+ * User Manual available at https://docs.gradle.org/6.0.1/userguide/tutorial_java_projects.html
  */
 
 plugins {
     // Apply the java plugin to add support for Java
     id 'java'
 
-    // Apply the application plugin to add support for building an application
+    // Apply the application plugin to add support for building a CLI application.
     id 'application'
 }
 
-// Define the main class for the application
-mainClassName = 'App'
-
-dependencies {
-    // This dependency is found on compile classpath of this component and consumers.
-    compile 'com.google.guava:guava:23.0'
-
-    // Use JUnit test framework
-    testCompile 'junit:junit:4.12'
-}
-
-// In this section you declare where to find the dependencies of your project
 repositories {
-    // Use jcenter for resolving your dependencies.
+    // Use jcenter for resolving dependencies.
     // You can declare any Maven/Ivy/file repository here.
     jcenter()
+}
+
+dependencies {
+    // This dependency is used by the application.
+    implementation 'com.google.guava:guava:28.0-jre'
+
+    // Use JUnit Jupiter API for testing.
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.1'
+
+    // Use JUnit Jupiter Engine for testing.
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.5.1'
+}
+
+application {
+    // Define the main class for the application.
+    mainClassName = 'App'
+}
+
+test {
+    // Use junit platform for unit tests
+    useJUnitPlatform()
 }
