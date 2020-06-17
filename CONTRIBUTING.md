@@ -24,7 +24,7 @@ Como ves, este repositorio contiene ejemplos de aplicaciones en diferentes lengu
 
 Aprovechamos para recordarte que todo tipo de participación en AsturiasHacking y sus proyectos relacionados, está sujeta a respetar los puntos descritos en nuestro [Código de Conducta][coc].
 
-[coc]: https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md
+[coc]: https://github.com/asturiashacking/core/blob/main/coc/CODE_OF_CONDUCT.md
 [code smells]: https://en.wikipedia.org/wiki/Code_smell
 [eslint]: https://eslint.org/
 [rubocop]: https://github.com/rubocop-hq/rubocop
