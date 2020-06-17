@@ -6,4 +6,4 @@ Consulta el `README.md` de cada subcarpeta para obtener más información sobre 
 
 ## Código de Conducta
 
-La comunidad AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/master/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
+La comunidad AsturiasHacking se rige por un [código de conducta](https://github.com/asturiashacking/core/blob/main/coc/CODE_OF_CONDUCT.md) que es de obligado cumplimiento por parte de miembros, organizadores y asistentes.
