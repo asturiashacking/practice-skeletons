@@ -1,0 +1,13 @@
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\bin\Debug\netcoreapp3.1\C-sharp-skeleton-katas.exe
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\bin\Debug\netcoreapp3.1\C-sharp-skeleton-katas.deps.json
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\bin\Debug\netcoreapp3.1\C-sharp-skeleton-katas.runtimeconfig.json
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\bin\Debug\netcoreapp3.1\C-sharp-skeleton-katas.runtimeconfig.dev.json
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\bin\Debug\netcoreapp3.1\C-sharp-skeleton-katas.dll
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\bin\Debug\netcoreapp3.1\C-sharp-skeleton-katas.pdb
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\obj\Debug\netcoreapp3.1\C-sharp-skeleton-katas.csprojAssemblyReference.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\obj\Debug\netcoreapp3.1\C-sharp-skeleton-katas.AssemblyInfoInputs.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\obj\Debug\netcoreapp3.1\C-sharp-skeleton-katas.AssemblyInfo.cs
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\obj\Debug\netcoreapp3.1\C-sharp-skeleton-katas.csproj.CoreCompileInputs.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\obj\Debug\netcoreapp3.1\C-sharp-skeleton-katas.dll
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\obj\Debug\netcoreapp3.1\C-sharp-skeleton-katas.pdb
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\obj\Debug\netcoreapp3.1\C-sharp-skeleton-katas.genruntimeconfig.cache

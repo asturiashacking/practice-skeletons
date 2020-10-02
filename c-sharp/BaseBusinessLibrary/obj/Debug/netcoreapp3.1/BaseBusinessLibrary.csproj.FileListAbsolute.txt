@@ -1,0 +1,9 @@
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\bin\Debug\netcoreapp3.1\BaseBusinessLibrary.deps.json
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\bin\Debug\netcoreapp3.1\BaseBusinessLibrary.dll
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\bin\Debug\netcoreapp3.1\BaseBusinessLibrary.pdb
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netcoreapp3.1\BaseBusinessLibrary.csprojAssemblyReference.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netcoreapp3.1\BaseBusinessLibrary.AssemblyInfoInputs.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netcoreapp3.1\BaseBusinessLibrary.AssemblyInfo.cs
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netcoreapp3.1\BaseBusinessLibrary.csproj.CoreCompileInputs.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netcoreapp3.1\BaseBusinessLibrary.dll
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netcoreapp3.1\BaseBusinessLibrary.pdb

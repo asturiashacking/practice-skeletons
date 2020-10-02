@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUA+oCDum0RXqvyxquC0FezDpnl5pvnBobPFJGx9zmwDP4BctuygkV2gfZfuYOq5jRBzxC7T9To65wL4vI4LOw==",
+  "success": true,
+  "projectFilePath": "D:\\AI Proyectos\\AA Github\\C-sharp-skeleton-katas\\BaseBusinessLibrary\\BaseBusinessLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmrp8\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jmrp8\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

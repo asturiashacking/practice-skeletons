@@ -1,0 +1,9 @@
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\bin\Debug\netstandard2.0\BaseBusinessLibrary.deps.json
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\bin\Debug\netstandard2.0\BaseBusinessLibrary.dll
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\bin\Debug\netstandard2.0\BaseBusinessLibrary.pdb
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netstandard2.0\BaseBusinessLibrary.csprojAssemblyReference.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netstandard2.0\BaseBusinessLibrary.AssemblyInfoInputs.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netstandard2.0\BaseBusinessLibrary.AssemblyInfo.cs
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netstandard2.0\BaseBusinessLibrary.csproj.CoreCompileInputs.cache
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netstandard2.0\BaseBusinessLibrary.dll
+D:\AI Proyectos\AA Github\C-sharp-skeleton-katas\BaseBusinessLibrary\obj\Debug\netstandard2.0\BaseBusinessLibrary.pdb
