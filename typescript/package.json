@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Project skeleton for practicing TypeScript",
   "scripts": {
-    "lint": "tslint --project .",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "test": "jest",
     "test:watch": "npm test -- --watch"
   },
@@ -20,14 +20,14 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/jest": "^24.0.19",
+    "@typescript-eslint/eslint-plugin": "5.14.0",
+    "@typescript-eslint/parser": "5.14.0",
+    "eslint": "8.10.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-prettier": "4.0.0",
     "jest": "^24.9.0",
-    "prettier": "^1.18.2",
+    "prettier": "2.5.1",
     "ts-jest": "^24.1.0",
-    "tslint": "^5.20.0",
-    "tslint-clean-code": "^0.2.10",
-    "tslint-config-prettier": "^1.18.0",
-    "tslint-plugin-prettier": "^2.0.1",
-    "tslint-sonarts": "^1.9.0",
-    "typescript": "^3.6.4"
+    "typescript": "4.6.2"
   }
 }

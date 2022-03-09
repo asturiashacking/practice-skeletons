@@ -1,8 +1,8 @@
 # TypeScript
 
-Este proyecto contiene una configuración básica de [TypeScript](https://www.typescriptlang.org/) con [Jest](https://jestjs.io/) como framework de testing. Como herramientas de apoyo, también está instalado [TSLint](https://palantir.github.io/tslint/) y un conjunto de paquetes que notificarán sobre posibles [_code smells_](https://en.wikipedia.org/wiki/Code_smell).
+Este proyecto contiene una configuración básica de [TypeScript](https://www.typescriptlang.org/) con [Jest](https://jestjs.io/) como framework de testing. Como herramientas de apoyo, también está instalado (y configurado) [ESLint](https://palantir.github.io/tslint/).
 
-Con soporte para múltiples editores de texto (VSCode, Atom, etc.) se recomienda instalar las extensiones para [TSLint](https://palantir.github.io/tslint/usage/third-party-tools/) y [Prettier](https://prettier.io/docs/en/editors.html) con el objetivo de disfrutar de todas las ventajas de este entorno de desarrollo.
+Con soporte para múltiples editores de texto (VSCode, Atom, etc.) se recomienda instalar las extensiones para [ESLint](https://palantir.github.io/tslint/usage/third-party-tools/) y [Prettier](https://prettier.io/docs/en/editors.html) con el objetivo de disfrutar de todas las ventajas de este entorno de desarrollo.
 
 ## ¿Cómo...?
 
@@ -25,4 +25,4 @@ npm run test:watch  # ejecución continua de los tests con cambios relacionados
 
 ### Analizar el código
 
-A través de `npm run lint` podrás obtener un informe del conjunto de _code smells_ identificados por TSLint.
+A través de `npm run lint` podrás obtener un informe de ESLint con los posibles problemas encontrados.
